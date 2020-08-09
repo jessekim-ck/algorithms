@@ -1,3 +1,9 @@
+"""
+Source: https://www.acmicpc.net/problem/2309
+Time: 60ms
+Rank: .
+"""
+
 if __name__ == "__main__":
     height_list = list()
     for _ in range(9):

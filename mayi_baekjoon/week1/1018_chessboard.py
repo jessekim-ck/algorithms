@@ -1,3 +1,9 @@
+"""
+Source: https://www.acmicpc.net/problem/1018
+Time: 64ms
+Rank: 9th
+"""
+
 # def make_chess_board(m, n):
 #     chess_board = list()
 #     for i in range(m):

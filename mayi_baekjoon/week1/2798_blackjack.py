@@ -1,3 +1,9 @@
+"""
+Source: https://www.acmicpc.net/problem/2798
+Time: 72ms
+Rank: 25th
+"""
+
 if __name__ == "__main__":
 
     n, m = input().split(" ")
